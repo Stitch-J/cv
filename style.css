@@ -1,0 +1,33 @@
+html {
+    overflow: hidden;
+}
+
+body {
+    margin: -20px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(80, 80, 80);
+}
+
+html, body {
+    height: 100%;
+}
+
+.first-box-container {
+    padding-top: 5vh;
+    width: 20vw;
+    height: 100vh;
+    background-color: rgb(28, 86, 126);
+    text-align: center;
+    color: aliceblue;
+  }
+  
+  .second-box-container {
+    padding-left: 2vw;
+    width: 80vw;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    left: 20vw;
+    bottom: 100vh
+  }
