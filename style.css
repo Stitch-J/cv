@@ -15,14 +15,18 @@ html, body {
 
 .first-box-container {
     padding-top: 5vh;
+    padding-left: 3vw;
     width: 20vw;
     height: 100vh;
     background-color: rgb(28, 86, 126);
-    text-align: center;
+    text-align: left;
     color: aliceblue;
   }
   
   .second-box-container {
+    margin-top: -6vh;
+    padding-right: 70vw;
+    padding-top: 3vh;
     padding-left: 2vw;
     width: 80vw;
     height: 100vh;
